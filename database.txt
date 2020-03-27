@@ -1,0 +1,22 @@
+[{
+ "ip": "192.168.0.1",
+ "port": "3306",
+ "username": "root",
+ "password": "123456",
+ "name": "数据库1名称",
+ "remark": "连接1备注"
+}, {
+ "ip": "192.168.0.2",
+ "port": "3306",
+ "username": "root",
+ "password": "123456",
+ "name": "数据库2名称",
+ "remark": "连接2备注"
+}, {
+ "ip": "192.168.0.3",
+ "port": "3306",
+ "username": "root",
+ "password": "123456",
+ "name": "数据库3名称",
+ "remark": "连接3备注"
+}]
